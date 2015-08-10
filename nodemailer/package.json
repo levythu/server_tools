@@ -1,0 +1,10 @@
+{
+  "name": "mailer",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+  },
+  "dependencies": {
+    "nodemailer": "~1.4.0"
+  }
+}
