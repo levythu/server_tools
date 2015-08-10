@@ -3,4 +3,4 @@
 DIR=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
 cd "$DIR"
 
-/usr/local/bin/node emailDump.js
+/usr/local/bin/node pipeEmail.js
